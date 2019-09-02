@@ -1,0 +1,2 @@
+include ':app', ':contour'
+rootProject.name='ContourDemo'
